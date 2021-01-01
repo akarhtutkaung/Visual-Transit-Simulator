@@ -1,0 +1,13 @@
+ROUTE_GENERAL, Campus Connector
+
+Stop Name, Long, Lat, Pass Gen Prob
+
+ROUTE, East Bound
+
+STOP, Blegen Hall, 44.972392, -93.243774, .15
+STOP, Coffman, 44.973580, -93.235071, .3
+
+ROUTE, West Bound
+
+STOP, Coffman, 44.973580, -93.235071, .3
+STOP, Blegen Hall, 44.972392, -93.243774, .15
